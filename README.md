@@ -8,7 +8,7 @@ Anda bisa mengunduh library dom-pdf di sini :
 - https://code.google.com/p/dompdf/downloads/list
 - https://github.com/dompdf/dompdf
 
-Untuk mengakses file jarak jauh seperti gambar, anda perlu melakukan konfigurasi di barian dompdf_config.inc.php
+Untuk mengakses file jarak jauh seperti gambar, anda perlu melakukan konfigurasi di bagian dompdf_config.inc.php
 
 Default-nya bernilai false yang artinya anda belum bisa mengakses file jarak jauh
 - def("DOMPDF_ENABLE_REMOTE", false);
