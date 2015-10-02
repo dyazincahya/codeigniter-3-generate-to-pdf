@@ -28,12 +28,9 @@ Library PDF diatas merupakan library tambahan yang sudah terintegrasi dengan dom
 
 Pada saat anda menggunakan library tambahan di atas, anda hanya cukup membuat function sederhana seperti ini :
 
-###### //berfungsi untuk meloah view html yang akan di generate ke pdf
-###### $this->pdf->load_view('example_to_pdf');
-###### //berfungsi untuk merender file view di atas
-###### $this->pdf->render();
-###### //atur nama file pdf nya disini
-###### $this->pdf->stream("name-file.pdf");
+###### $this->pdf->load_view('example_to_pdf'); //berfungsi untuk meloah view html yang akan di generate ke pdf
+###### $this->pdf->render(); //berfungsi untuk merender file view di atas
+###### $this->pdf->stream("name-file.pdf"); //atur nama file pdf nya disini
 
 Selain itu anda juga bisa menambahkan $data pada :
 ###### $this->pdf->load_view('example_to_pdf', $data);
