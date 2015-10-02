@@ -2,9 +2,9 @@
 Library for generate html to PDF, by DOM-PDF
 
 ## Intro
-Ini adalah sample code untuk meng-generate file html ke PDF. Pada contoh ini saya menggunakan library DOM-PDF
+Ini adalah sample code untuk meng-generate file html ke PDF. Pada sample ini saya menggunakan library DOM-PDF
 
-Anda bisa mengunduk library dom-pdf di sini :
+Anda bisa mengunduh library dom-pdf di sini :
 - https://code.google.com/p/dompdf/downloads/list
 - https://github.com/dompdf/dompdf
 
