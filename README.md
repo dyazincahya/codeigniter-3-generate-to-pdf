@@ -35,4 +35,4 @@ Pada saat anda menggunakan library tambahan di atas, anda hanya cukup membuat fu
 Selain itu anda juga bisa menambahkan $data pada :
 `` $this->pdf->load_view('example_to_pdf', $data); ``
 
-$data tersebut berfungsi untuk menampug data array yang bisa di panggil di dalam view, bentuk seperti itu tidak berbeda jauh dengan pada saat kita me-load view di codeigniter biasa. 
+``$data`` tersebut berfungsi untuk menampug data array yang bisa di panggil di dalam view, bentuk seperti itu tidak berbeda jauh dengan pada saat kita me-load view di codeigniter biasa. 
